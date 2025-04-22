@@ -1,0 +1,11 @@
+{
+"name": "calculadora",
+"version": "1.0.0",
+"description": "Calculadora simples com CI/CD",
+"main": "js/calculadora.js",
+"scripts": {
+"test": "node js/testes.js"
+},
+"author": "",
+"license": "ISC"
+}
